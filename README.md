@@ -5,6 +5,5 @@
 ## Preview :
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/8ab5af91-1f49-404f-905b-286f638e562d" style="padding: 20px;" />
+  <img src="https://github.com/user-attachments/assets/71795480-683f-4d69-8151-854d38ec7da3" style="padding: 20px;" />
 </div>
-
